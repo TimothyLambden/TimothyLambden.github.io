@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Timothy Lambden"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "EPSRC CDT MRes/PhD student in the NanoDTC"
   location         : "London, UK"
-  employer         : "Chemistry Department, Cambridge University
+  employer         : "Chemistry Department, Cambridge University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "tpgl3@cam.ac.uk"
