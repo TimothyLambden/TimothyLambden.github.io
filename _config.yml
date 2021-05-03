@@ -84,9 +84,9 @@ author:
   avatar           : "avatar.jpg"
   bio              : "EPSRC CDT MRes/PhD student in the NanoDTC"
   location         : "London, UK"
-  employer         : "Chemistry Department, Cambridge University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : #"Chemistry Department, Cambridge University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "tpgl3@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
